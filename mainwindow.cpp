@@ -1,4 +1,4 @@
-/*#include "mainwindow.h"
+#include "mainwindow.h"
 #include "ui_mainwindow.h"
 #include "downloader.h"
 MainWindow::MainWindow(QWidget *parent)
@@ -11,4 +11,3 @@ MainWindow::~MainWindow()
 {
     delete ui;
 }
-*/
